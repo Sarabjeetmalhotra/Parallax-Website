@@ -1,1 +1,2 @@
-# Parallax-Website
+# Parallax
+ Parallax Website
